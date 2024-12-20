@@ -1,0 +1,33 @@
+# E-Commerce Website
+
+This is a React-based e-commerce website that allows users to browse and purchase products across various categories. It features a shopping cart, product filtering, and a responsive design for an optimal user experience on desktop and mobile devices.
+
+## Features
+
+- **Product Categories**: Browse products in categories such as Electronics, Accessories, Clothing, Home & Kitchen, Toys, and Books.
+- **Product Details**: View detailed information about each product including description, price, stock availability, and image.
+- **Responsive Design**: The site is fully responsive and works seamlessly across all device sizes.
+  
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **React Router**: For handling routing and navigation between pages.
+- **React Context API**: For managing the global state of the shopping .
+- **CSS**: For styling the website with responsive design techniques.
+- **Express.js**: Backend API setup.
+- **MongoDB**: Connected to a MongoDB database for data persistence.
+- **TypeScript**: Ensures type safety in the backend.
+- **Tailwind CSS**: Utility-first CSS framework for styling the frontend.
+- **Unsplash API**: For product images.
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- **Node.js** (LTS version recommended)
+- **npm** or **yarn**
+- **npm run dev** for frontend
+- **npm run server** for backend
